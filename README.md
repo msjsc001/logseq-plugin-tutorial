@@ -1,6 +1,6 @@
 # 🌲Logseq 自然语言插件编写指南 / Logseq Natural Language Plugin Writing Guide
-- 这是一个为 Logseq 用户设计的自然语言插件编写教程，帮助你掌握自然语言编程的方法，只要你会打字和基本的操作电脑跟着文章走，快的1小时内就能编写出插件并发布到插件市场，如果你母语不是中文请用浏览器翻译插件查看一样能学会。
-- This is a tutorial designed for Logseq users to help you learn natural language programming methods. If you know how to type, have basic computer skills, and follow this guide, you can write a plugin and publish it to the marketplace in as little as an hour. If your native language isn't Chinese, please use a browser translation plugin to view this guide – you'll still be able to learn.
+- 这是一个为 Logseq 用户设计的自然语言插件编写教程，帮助你掌握自然语言编程的方法流程，安装所需环境后按流程走输入需求加以耐心最快30分钟就能获得一个简单的插件，并且发布到社区。如果你的母语不是中文，可以用翻译软件阅读。
+- This is a tutorial designed for Logseq users on writing plugins using natural language. It helps you master the workflow of natural language programming. After installing the required environment, follow the process, input your requirements, and with some patience, you can create a simple plugin in as little as 30 minutes and publish it to the community.If your native language is not Chinese, you can use translation software to read.
 - 👉🏽 [请点击这里查看教程](https://github.com/msjsc001/logseq-plugin-tutorial/wiki) 👈🏽
 - 👉🏽 [Click here to view the tutorial.](https://github.com/msjsc001/logseq-plugin-tutorial/wiki) 👈🏽
 
