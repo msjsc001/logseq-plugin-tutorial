@@ -7,4 +7,6 @@
 # 效果展示
 - 下图是我通过自然语言写的第一个logseq插件功能是“页面文字统计”，**从写到发布到社区中途没有编辑过1次代码**！
 - ![插件在工具栏的显示效果](https://github.com/user-attachments/assets/a082273e-ee4b-4425-a95d-9299b0a3f5c9)
+- ![A3OXA50H$RICI05CY7CB1 E](https://github.com/user-attachments/assets/0a164400-f48b-4cc2-89d5-2ac311e9010b)
+
 - [项目地址　logseq-word-count-plugin](https://github.com/msjsc001/logseq-word-count-plugin)
